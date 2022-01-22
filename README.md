@@ -47,6 +47,16 @@ Here's what it can (or will) do:
 - `Stretch` mode, allows to choose how much you want your plant to stretch or thicken
 - `Sunglass` mode, so you don't burn your eyes when you work on your plants
 - More to come..
+- @ElasticDotVentures "GrowPotBot" fork #goals
+-   * esp32-c3 RISC-V open chipset
+-   * initially focused on hydroponic capsicum & tomato - Australian & non-canna global market
+-   * alternative consumer oriented documentation & packaging
+-   * sold in Australia on the Ikea marketplace / secondary brand, 20% rev. share back to SGL
+    - cost + 20% on hardware - Australian business entity "Fungible.Farm"
+-   * future: mycological co2 generation
+-   * once accepted, will apply to github program for both projects & incubator from EspressIf ESP32 
+-   * expansion board with i2c rust sensor bindings for environmental sensors, hydroponics, nutrients
+-   * agricultural sensor open-telemetry development & long term storage for machine learning & data analysis
 
 This is the firmware that runs the [SuperGreenController](https://github.com/supergreenlab/SuperGreenController).
 
